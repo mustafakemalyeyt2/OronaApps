@@ -11,13 +11,13 @@ kurulumun sistemi yanlış değerlendirecektir!!!
 Bu uygulama aşağıdaki işletim sistemlerinde çalıştırılabilir:
 
 Windows: 11, 10
-Windows Server: 2025,2022,2019,2016
+Windows Server: 2025,2022,2019
 
 Dikkat: Server sürümleri bazen kendi güvenlik açılarından dolayı bu uygulamayı/kurulumu çalıştırmayabilir.
 
-Bu uygulama'nın çalışabilmesi için .NET Masaüstü Çalışma Zamanı 9.0.2 gerekiyor eğer sisteminde yoksa, şu siteden indirebilir ve kurabilirsin:
+Bu uygulama'nın çalışabilmesi için .NET Masaüstü Çalışma Zamanı 9.0.14 gerekiyor eğer sisteminde yoksa, şu siteden indirebilir ve kurabilirsin:
 
-https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.200/dotnet-sdk-9.0.200-win-x64.exe
+(https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.14/windowsdesktop-runtime-9.0.14-win-x64.exe)
 (Zaten kurulum senin .NET yüklü mü, değil mi diye otomatik olarak kontrol edecektir...)
 
 Eğer uygulamada bir hata olursa yada Exception hataları olursa bana şu e-postadan ileti yaz:
