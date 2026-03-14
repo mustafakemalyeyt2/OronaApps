@@ -1,6 +1,6 @@
 # Katkı Rehberi / Contributing Guidelines
 
-Teşekkürler! Bu projeye katkıda bulunmak istiyorsanız aşağıdaki adımları takip edin.
+Bu projelere katkıda bulunmak istiyorsanız aşağıdaki adımları takip edin.
 
 ## Nasıl Katkıda Bulunulur? / How to Contribute
 1. Reponun bir kopyasını (fork) alın.  
