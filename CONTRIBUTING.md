@@ -24,4 +24,4 @@ Sorularınız veya katkılarınız için şu e-posta adresini kullanabilirsiniz:
 
 ---
 
-©2021-2026 OronaApps, Mustafa Kemal Ye., OronaStudio, Inc. All rights reserved./Tüm hakları saklıdır.
+©2021-2026 OronaApps, Mustafa Kemal Ye., OronaStudio, Inc, All rights reserved./Tüm hakları saklıdır.
