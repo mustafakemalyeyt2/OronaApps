@@ -54,7 +54,7 @@ Windows Application Package:
 4. When the installation is complete, click "Launch".
 5. Done.
 
-Note: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.
+Caution: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.
 
 REQUIREMENTS:
 
