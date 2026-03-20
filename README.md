@@ -16,7 +16,7 @@ Uygulamayı indirdiğin için teşekkürler! Uygulamayı kurmak için şu yöner
 4. Kurulum tamamlandığında "Launch" tuşuna tıkla.
 5. Bitti.
 
-Dikkat: .msix kurulumu masaüstü kısayolu eklememektedir. Windows Başlat'da genellikle önerilenler kısmında bulunmaktadır.
+*Dikkat: .msix kurulumu masaüstü kısayolu eklememektedir. Windows Başlat'da genellikle önerilenler kısmında bulunmaktadır.*
 
 ## GEREKSİNİMLER:
 
@@ -76,7 +76,7 @@ Thank you for downloading the application! To install the application, follow th
 4. When the installation is complete, click "Launch".
 5. Done.
 
-Note: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.
+*Caution: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.*
 
 ## REQUIREMENTS:
 
