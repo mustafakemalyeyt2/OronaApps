@@ -1,0 +1,47 @@
+TURKİSH:
+
+.msix dosyasından kurulum yapacaklar için:
+
+Eğer hata aldıysan ve hata kodu 0x800B010A alıyorsan, şu çözümü uygula:
+
+--APP.PFX için---
+1. Bu klasördeki app.pfx'a sağ tıkla ve PFX Yükle... seçeneğini bul ve tıkla. (sihirbaz açılacak)
+2. Sonraki'ye tıkla ve alınan dosya sekmesinde dosya konumun .pfx'ı/.cer'i gösterdiğinden emin ol ve Sonraki'ye tıkla.
+3. Parolayı gir. (12345) ve Sonraki'ye tıkla.
+4. Tüm sertifikaları aşağıdaki depolama alanına yerleştir'e tıkla ve Gözat'a tıkla ve Güvenilen Kök Sertifika Yetkililerini bul ve seç.
+5. Sonraki'ye tıkla ve Son'a tıkla.
+6. Bitti.
+
+--APP.CER için---
+1. Bu klasördeki app.cer'a sağ tıkla ve Sertifika Yükle... seçeneğini bul ve tıkla. (sihirbaz açılacak)
+2. Sonraki'ye tıkla ve tüm sertifikaları aşağıdaki depolama alanına yerleştir'e tıkla ve Gözat'a tıkla ve Güvenilen Kök Sertifika Yetkililerini bul ve seç.
+3. Sonraki'ye tıkla ve Son'a tıkla.
+4. Bitti.
+
+setup.exe üzerinden kurulum yapacaklar için:
+1. Kurulum ekranın altında işaretin ✅ işaretin olup olmadığını kontrol et. (değilse sıkıntı olmaz.)
+2. Bitti.
+
+ENGLISH:
+
+For those installing from a .msix file:
+
+If you received an error and the error code is 0x800B010A, follow this solution:
+
+--For APP.PFX---
+1. Right-click on app.pfx in this folder and find and click on Install PFX... (a wizard will open)
+2. Click Next and make sure the file location in the Received File tab points to .pfx/.cer and click Next.
+3. Enter the password (12345) and click Next.
+4. Click on Place all certificates in the following storage area and click Browse and find and select Trusted Root Certificate Authorities.
+5. Click Next and click Finish.
+6. Done.
+
+--For APP.CER---
+1. Right-click on app.cer in this folder and find and click on Install Certificates... (The wizard will open)
+2. Click Next and click 'Place all certificates in the storage area below' and click Browse and find and select Trusted Root Certificate Authorities.
+3. Click Next and click Finish.
+4. Done.
+
+For those installing via setup.exe:
+1. Check if the ✅ mark is present at the bottom of the installation screen. (If not, there is no problem.)
+2. Done.
