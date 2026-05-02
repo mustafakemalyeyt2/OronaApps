@@ -6,7 +6,7 @@ Eğer hata aldıysan ve hata kodu 0x800B010A alıyorsan, şu çözümü uygula:
 
 --APP.PFX için---
 1. Bu klasördeki app.pfx'a sağ tıkla ve PFX Yükle... seçeneğini bul ve tıkla. (sihirbaz açılacak)
-2. Sonraki'ye tıkla ve alınan dosya sekmesinde dosya konumun .pfx'ı/.cer'i gösterdiğinden emin ol ve Sonraki'ye tıkla.
+2. Yerel Makine'yi seç ve Sonraki'ye tıkla ve alınan dosya sekmesinde dosya konumun .pfx'ı/.cer'i gösterdiğinden emin ol ve Sonraki'ye tıkla.
 3. Parolayı gir. (12345) ve Sonraki'ye tıkla.
 4. Tüm sertifikaları aşağıdaki depolama alanına yerleştir'e tıkla ve Gözat'a tıkla ve Güvenilen Kök Sertifika Yetkililerini bul ve seç.
 5. Sonraki'ye tıkla ve Son'a tıkla.
@@ -14,7 +14,7 @@ Eğer hata aldıysan ve hata kodu 0x800B010A alıyorsan, şu çözümü uygula:
 
 --APP.CER için---
 1. Bu klasördeki app.cer'a sağ tıkla ve Sertifika Yükle... seçeneğini bul ve tıkla. (sihirbaz açılacak)
-2. Sonraki'ye tıkla ve tüm sertifikaları aşağıdaki depolama alanına yerleştir'e tıkla ve Gözat'a tıkla ve Güvenilen Kök Sertifika Yetkililerini bul ve seç.
+2. Yerel Makine'yi seç ve Sonraki'ye tıkla ve tüm sertifikaları aşağıdaki depolama alanına yerleştir'e tıkla ve Gözat'a tıkla ve Güvenilen Kök Sertifika Yetkililerini bul ve seç.
 3. Sonraki'ye tıkla ve Son'a tıkla.
 4. Bitti.
 
