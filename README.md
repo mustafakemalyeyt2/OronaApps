@@ -16,7 +16,7 @@ Uygulamayı indirdiğin için teşekkürler! Uygulamayı kurmak için şu yöner
 4. Kurulum tamamlandığında "Launch" tuşuna tıkla.
 5. Bitti.
 
-*&#9888; Dikkat: .msix kurulumu masaüstü kısayolu eklememektedir. Windows Başlat'da genellikle önerilenler kısmında bulunmaktadır.*
+*&#9888; Dikkat: .msix kurulumu masaüstü kısayolu eklememektedir. Windows Başlat'da genellikle önerilenler kısmında bulunmaktadır. Ancak .msix dosyası Windows 10 sürüm 1709 sonraki ve Windows Server 2019 LTSC sonraki sürümlerde desteklenir.*
 
 ## GEREKSİNİMLER:
 
@@ -77,7 +77,7 @@ Thank you for downloading the application! To install the application, follow th
 4. When the installation is complete, click "Launch".
 5. Done.
 
-*&#9888;Caution: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.*
+*&#9888;Caution: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu. However, the .msix file is supported in Windows 10 version 1709 and later, and Windows Server 2019 LTSC and later.*
 
 ## REQUIREMENTS:
 
