@@ -16,7 +16,7 @@ Uygulamayı indirdiğin için teşekkürler! Uygulamayı kurmak için şu yöner
 4. Kurulum tamamlandığında "Launch" tuşuna tıkla.
 5. Bitti.
 
-*Dikkat: .msix kurulumu masaüstü kısayolu eklememektedir. Windows Başlat'da genellikle önerilenler kısmında bulunmaktadır.*
+*&#9888; Dikkat: .msix kurulumu masaüstü kısayolu eklememektedir. Windows Başlat'da genellikle önerilenler kısmında bulunmaktadır.*
 
 ## GEREKSİNİMLER:
 
@@ -48,9 +48,10 @@ Bu programın çalışabilmesi için şu şartları yerine getirmelisin:
 
 | Sürüm   | Destek               | İndirme linki      |
 | ------- | -------------------- | ------------------ |
-| 10.0.x    | :white_check_mark: | https://dotnet.microsoft.com/en-us/download/dotnet/10.0|
-| 9.0.x     | :white_check_mark: | https://dotnet.microsoft.com/en-us/download/dotnet/9.0 |
-| < 8.0.x   | :x:                | https://dotnet.microsoft.com/en-us/download/dotnet/8.0 |
+| 10.0.x  | :white_check_mark:   | https://dotnet.microsoft.com/en-us/download/dotnet/10.0|
+| 9.0.x   | :white_check_mark:   | https://dotnet.microsoft.com/en-us/download/dotnet/9.0 |
+| 8.0.x   | :white_check_mark: (çoğu üründe destekler)  | https://dotnet.microsoft.com/en-us/download/dotnet/8.0 |
+| < 7.0.x   | :x:   | Bu sürüm ve alt sürümler desteklenmediği için link bulunmamakta. |
 
 Microsoft Visual C++ 2015 Redistributable (x64):
 https://aka.ms/vc14/vc_redist.x64.exe
@@ -76,7 +77,7 @@ Thank you for downloading the application! To install the application, follow th
 4. When the installation is complete, click "Launch".
 5. Done.
 
-*Caution: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.*
+*&#9888;Caution: The .msix installation does not add a desktop shortcut. It is usually found in the suggested options section of the Windows Start menu.*
 
 ## REQUIREMENTS:
 
@@ -106,11 +107,12 @@ You must meet the following requirements for this program to work:
 
 ### .NET versions
 
-| Version | Support | Download link |
+| Version   | Support               | Download link      |
 | ------- | -------------------- | ------------------ |
-| 10.0.x  | :white_check_mark: | https://dotnet.microsoft.com/en-us/download/dotnet/10.0 |
-| 9.0.x   | :white_check_mark: | https://dotnet.microsoft.com/en-us/download/dotnet/9.0 |
-| < 8.0.x | :x: | https://dotnet.microsoft.com/en-us/download/dotnet/8.0 |
+| 10.0.x  | :white_check_mark:   | https://dotnet.microsoft.com/en-us/download/dotnet/10.0|
+| 9.0.x   | :white_check_mark:   | https://dotnet.microsoft.com/en-us/download/dotnet/9.0 |
+| 8.0.x   | :white_check_mark: (supports included in most products)  | https://dotnet.microsoft.com/en-us/download/dotnet/8.0 |
+| < 7.0.x   | :x:   | This version and previous versions are not supported, therefore the link is not available. |
 
 Microsoft Visual C++ 2015 Redistributable (x64):
 https://aka.ms/vc14/vc_redist.x64.exe
