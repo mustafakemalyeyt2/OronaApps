@@ -33,8 +33,8 @@ currently being supported with security updates.
 | Windows Server 2022  | :white_check_mark: |
 | Windows Server 2019  | :white_check_mark: |
 | Windows Server 2016  | &#9888; |
-| Windows Server 2012  | &#9888; |
-| < Windows Server 2008  | :x: |
+| Windows Server 2012, R2 | &#9888; |
+| < Windows Server 2008, R2  | :x: |
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
