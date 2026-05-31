@@ -7,9 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 10.0.x   | &#x2753; |
+| 10.0.x  | :white_check_mark: |
 | 9.0.x   | :white_check_mark: |
-| < 8.0.x   | :x:              |
+| 8.0.x   | :white_check_mark: |
+| < 7.0.x  | :x: |
 
 ## Supported Windows and Server Versions
 
